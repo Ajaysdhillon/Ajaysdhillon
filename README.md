@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ajaysdhillon
 - 👀 I’m interested in frontend development using react and javascript
 - 🌱 I’m currently learning blockchain technology
-- 💞️ I’m looking to collaborate on different projects regarding my techstack 
+- 💞️ I’m looking to collaborate on different projects using my techstack 
 - 📫 You can reach me out on my email i.e ajaysdhillon@gmail.com
 
 <!---
